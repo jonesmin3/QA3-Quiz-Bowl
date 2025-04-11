@@ -1,7 +1,7 @@
 # QA3-Project: Quiz Bowl Application
 
 ## The PASSWORD to access the administrator interface is:
-- CanIPleaseHaveExtraCreditPorFavor
+- momothecat
 
 ## Overview
 
