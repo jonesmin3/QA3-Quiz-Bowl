@@ -1,7 +1,9 @@
 # QA3-Project: Quiz Bowl Application
 
 ## The PASSWORD to access the administrator interface is:
-- momothecat
+ - momothecat
+
+## Look at main_quiz_admin.py to access the welcome window that has the admin panel and quiz interface.
 
 ## Overview
 
